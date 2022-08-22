@@ -1,6 +1,6 @@
 'use strict';
 
-//selecting elements
+//selecting needed elements
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
 const score0EL = document.querySelector('#score--0');
